@@ -1,7 +1,7 @@
 import { CdnConfig } from './types'
 
-const owner = 'the1812'
-const host = 'cdn.jsdelivr.net'
+const owner = 'xiaofeiTM233'
+const host = 'fastly.jsdelivr.net'
 export const jsDelivr: CdnConfig = {
   name: 'jsDelivr',
   owner,
